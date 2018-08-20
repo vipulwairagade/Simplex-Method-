@@ -1,0 +1,7 @@
+Minimize 2x1 - 3x2 
+
+Constraints -x1 + 2x2 <= 4
+            3x1 + 2x2 <= 14
+            x1 - x2 <= 3
+            
+            x1>=0 & x2>=0
